@@ -1,6 +1,6 @@
 # Hi, I'm Haleema Faiza 👋
 
-### Full-Stack Developer | SaaS & AI-Powered Products
+### Software Engineer | Full-Stack Developer | SaaS & AI-Powered Products
 
 I build full-stack web applications with a focus on creating practical, user-centered products.
 
@@ -43,9 +43,11 @@ My core stack includes **React, Node.js, Express, PostgreSQL, MongoDB, and REST 
 
 ### 🌱 Currently Learning
 
-System Design
-Solid Principles
-Python Development
+- System Design
+- SOLID Principles
+- Python Development
+- Cloud & AWS
+- Software Testing
 
 ---
 
